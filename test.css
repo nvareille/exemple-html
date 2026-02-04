@@ -1,0 +1,10 @@
+.flex
+{
+    display: flex;
+}
+
+.centrer
+{
+    margin-left: auto;
+    margin-right: auto;
+}
